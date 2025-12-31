@@ -1,5 +1,5 @@
 # 🚕 NYC Taxi Trip Duration Prediction
-End-to-End Machine Learning Project (Industry Ready)
+End-to-End Machine Learning Project 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B2D?style=for-the-badge&logo=xgboost&logoColor=white)
@@ -86,6 +86,7 @@ The following features were engineered based on EDA insights:
 ---
 
 ## 🧱 Project Structure
+```text
 nyc-taxi-trip-duration/
 │
 ├── api/
@@ -143,7 +144,7 @@ nyc-taxi-trip-duration/
 │
 └── README.md
     └── Project documentation
-
+```
 ---
 
 ## 🏗️ System Architecture
